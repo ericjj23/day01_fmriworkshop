@@ -1,2 +1,4 @@
-# day01_fmriworkshop
+# day01_fmriworkshop 
+
+thing2:
 day1
